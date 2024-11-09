@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is Joshua but I go by zeekblitz on the internet. I graduated from UMass Boston in May of 2024 with a BS degree in computer science. I love everything about programming and believe I can do anything with code. During school I specialized in learning backend development with a hint of frontend thrown in there. I'd say my strongest PLs are Java and C. My dream is that someday I will have my own video game published and played by millions around the world.
+
+- 🔭 I’m currently working on my dream FPS game that I (currently) call "Resevoir" using the Godot Game Engine.
+  - I'm also building a home security system using Raspberry Pis. 🥧
+- 🌱 I’m currently learning more about Godot shaders.
+- 👯 I’m looking to collaborate on indie game dev projects.
+- 🤔 I’m looking for help with my own indie game dev project.
+- 📫 How to reach me: @zeekblitz
+
 <!--
 **zeekblitz/zeekblitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
